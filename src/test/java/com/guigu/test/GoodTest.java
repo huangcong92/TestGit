@@ -22,7 +22,8 @@ public class GoodTest {
     public GoodTest() {
 
         // Auto-generated constructor stub
-        System.out.println("修改再次提交");
+        System.out.println("解决冲突了1");
+        System.out.println("解决冲突了1");
 
     }
 
