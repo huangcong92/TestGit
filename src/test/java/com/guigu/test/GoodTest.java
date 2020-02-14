@@ -24,6 +24,9 @@ public class GoodTest {
         // Auto-generated constructor stub
         System.out.println("解决冲突了2");
         System.out.println("解决冲突了2");
+        // Auto-generated constructor stub
+        System.out.println("解决冲突了1");
+        System.out.println("解决冲突了1");
 
     }
 

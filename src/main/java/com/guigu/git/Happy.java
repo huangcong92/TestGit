@@ -8,20 +8,19 @@
 */
 
 package com.guigu.git;
+
 /**
- * Description:	   <br/>
- * Date:     ионГ12:24:15 <br/>
- * @author   huangcong
- * @version  
- * @see 	 
+ * Description: <br/>
+ * Date: ионГ12:24:15 <br/>
+ * 
+ * @author huangcong
+ * @version
+ * @see
  */
 public class Happy {
 
-    public Happy() {
-
-        //  Auto-generated constructor stub
-
+    public static void main(String[] args) {
+        System.out.println("test...");
     }
 
 }
-
