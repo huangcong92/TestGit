@@ -8,20 +8,23 @@
 */
 
 package com.guigu.test;
+
 /**
- * Description:	   <br/>
- * Date:     下午11:52:13 <br/>
- * @author   huangcong
- * @version  
- * @see 	 
+ * Description: <br/>
+ * Date: 下午11:52:13 <br/>
+ * 
+ * @author huangcong
+ * @version
+ * @see
  */
 public class GoodTest {
 
     public GoodTest() {
 
-        //  Auto-generated constructor stub
+        // Auto-generated constructor stub
+        System.out.println("解决冲突了2");
+        System.out.println("解决冲突了2");
 
     }
 
 }
-
